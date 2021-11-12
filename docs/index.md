@@ -6,7 +6,7 @@ title: Productvisie Haal Centraal
 {:.landingpage-header}
 
 {:.landingpage-header}
-* In de startgids lees je in 5 minuten wat je moet doen.
+* In de startgids lees je wat je moet doen.
 * Je krijgt contrete tips en stappenplannen. 
 * Onze experts staan klaar om je te adviseren.   
 &nbsp;
